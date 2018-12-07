@@ -1,0 +1,1 @@
+![Tresc zadania](tresc.PNG)
